@@ -18,7 +18,8 @@ public class CourseController {
         return Arrays.asList(
                 new Course(1, "course1", "learn spring"),
                 new Course(2, "course2", "learn spring"),
-                new Course(3, "course3", "learn spring")
+                new Course(3, "course3", "learn spring"),
+                  new Course(4, "course4", "learn spring")
         );
     }
 }
